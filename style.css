@@ -114,3 +114,40 @@ footer h3 {
 	font-family: "Lobster", cursive;
 	font-size: 36px;
 }
+/* volunteer */
+#valunteer {
+	margin-top: 150px;
+	padding: 100px;
+	background-image: linear-gradient(to top, #00000098, #0000001e),
+		url("images/donation5.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	color: white;
+}
+/* subscribe styles */
+#updates {
+	margin-top: 150px;
+	margin-bottom: 140px;
+}
+#subscribe {
+	padding: 75px 190px;
+	background-color: rgba(255, 244, 214, 1);
+}
+#subscribe div {
+	height: 50px;
+	display: flex;
+	justify-content: center;
+}
+#subscribe button {
+	height: 100%;
+	border-radius: 0 5px 5px 0;
+}
+#subscribe input {
+	padding: 0 20px;
+	font-size: 16px;
+	background-color: rgba(217, 217, 217, 1);
+	border: none;
+	margin: 0;
+	border-radius: 5px 0 0 5px;
+}
